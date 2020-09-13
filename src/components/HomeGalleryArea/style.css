@@ -1,0 +1,13 @@
+.home_gallery_area {
+  padding-top: 120px;
+  margin-bottom: 120px;
+}
+
+.home_gallery_area h2 {
+	font-family: "Heebo", sans-serif;
+	font-size: 36px;
+	color: #222222;
+	margin-bottom: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
