@@ -4,6 +4,7 @@ import { Col, Row, Tabs, Image, Card } from 'antd'
 import landingPage from '../../landing_page.png'
 import dashboardKotakmakan from '../../dashboard_kotakmakan.png'
 import dashboardFastrata from '../../dashboard_fastrata.png'
+import dashboardPayroll from '../../dashboard_payroll.png'
 import flutix from '../../ssflutix.jpg'
 import './style.css'
 
@@ -25,6 +26,11 @@ const dataVue = [
   {
     img: dashboardFastrata,
     description: 'Dashboard Fastmart is a master data for kotakmakan as customer, product, promo, etc',
+    linkDemo: false
+  },
+  {
+    img: dashboardPayroll,
+    description: 'Payroll application software that is designed to be accessed by the online by employees. which aims to make it easier for employees and users to manage employee data in the Company.',
     linkDemo: false
   },
 ]
