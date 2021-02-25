@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.e8fc75ec.chunk.css",
-    "main.js": "/myportfolio/static/js/main.8571895e.chunk.js",
-    "main.js.map": "/myportfolio/static/js/main.8571895e.chunk.js.map",
+    "main.js": "/myportfolio/static/js/main.ab894909.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.ab894909.chunk.js.map",
     "runtime-main.js": "/myportfolio/static/js/runtime-main.0d50133a.js",
     "runtime-main.js.map": "/myportfolio/static/js/runtime-main.0d50133a.js.map",
     "static/css/2.6df4c8f8.chunk.css": "/myportfolio/static/css/2.6df4c8f8.chunk.css",
-    "static/js/2.3179ef46.chunk.js": "/myportfolio/static/js/2.3179ef46.chunk.js",
-    "static/js/2.3179ef46.chunk.js.map": "/myportfolio/static/js/2.3179ef46.chunk.js.map",
+    "static/js/2.46d23ae3.chunk.js": "/myportfolio/static/js/2.46d23ae3.chunk.js",
+    "static/js/2.46d23ae3.chunk.js.map": "/myportfolio/static/js/2.46d23ae3.chunk.js.map",
     "index.html": "/myportfolio/index.html",
-    "precache-manifest.20b78b7d33a07f8ff217863b8d47bd7d.js": "/myportfolio/precache-manifest.20b78b7d33a07f8ff217863b8d47bd7d.js",
+    "precache-manifest.4bd4a71987bac46f6a6105fd4640a726.js": "/myportfolio/precache-manifest.4bd4a71987bac46f6a6105fd4640a726.js",
     "service-worker.js": "/myportfolio/service-worker.js",
     "static/css/2.6df4c8f8.chunk.css.map": "/myportfolio/static/css/2.6df4c8f8.chunk.css.map",
     "static/css/main.e8fc75ec.chunk.css.map": "/myportfolio/static/css/main.e8fc75ec.chunk.css.map",
-    "static/js/2.3179ef46.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.3179ef46.chunk.js.LICENSE.txt",
+    "static/js/2.46d23ae3.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.46d23ae3.chunk.js.LICENSE.txt",
     "static/media/dashboard_fastrata.png": "/myportfolio/static/media/dashboard_fastrata.770fed7e.png",
     "static/media/dashboard_kotakmakan.png": "/myportfolio/static/media/dashboard_kotakmakan.d3c28366.png",
+    "static/media/dashboard_payroll.png": "/myportfolio/static/media/dashboard_payroll.1540319e.png",
     "static/media/landing_page.png": "/myportfolio/static/media/landing_page.1ec5eca4.png",
     "static/media/my_avatar.jpg": "/myportfolio/static/media/my_avatar.69388695.jpg",
     "static/media/ssflutix.jpg": "/myportfolio/static/media/ssflutix.b80c6fc3.jpg"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.0d50133a.js",
     "static/css/2.6df4c8f8.chunk.css",
-    "static/js/2.3179ef46.chunk.js",
+    "static/js/2.46d23ae3.chunk.js",
     "static/css/main.e8fc75ec.chunk.css",
-    "static/js/main.8571895e.chunk.js"
+    "static/js/main.ab894909.chunk.js"
   ]
 }
